@@ -1,2 +1,3 @@
-# nova-task-manager-lmu9
-Automated issue comment bot repository
+# Nova Task Manager Lmu9
+
+Automated issue comment bot repository.
